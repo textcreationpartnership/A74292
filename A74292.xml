@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris, 23 Februarii, 1648. An Act concerning the sequestration of South-Wales, and county of Monmouth.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74292</idno>
+            <idno type="STC">Thomason E1060_15</idno>
+            <idno type="STC">ESTC R208562</idno>
+            <idno type="EEBO-CITATION">99867504</idno>
+            <idno type="PROQUEST">99867504</idno>
+            <idno type="VID">169026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169026)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris, 23 Februarii, 1648. An Act concerning the sequestration of South-Wales, and county of Monmouth.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>65-68 [i.e 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black Spread-Eagle at the west-end of Pauls,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648 [i.e. 1649]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: P² . Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Last word of first line of text: "viz."; first word of line below initial: "beginning"; last word of last full line on first page: "Trea-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wales, South --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="65" facs="tcp:169026:1" rendition="simple:additions"/>
+            <head>
+               <hi>Die Veneris,</hi> 23 <hi>Februarii,</hi> 1648. An Act concerning the Sequeſtration of <hi>South-Wales,</hi> and County of MONMOUTH.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the ſeveral counties of Southwales, <hi>viz. Glamorgan, Pembrook, Carmarthen, Cardigan, Radnor, Brecon,</hi> and the county of <hi>Monmouth,</hi> were at the beginning of theſe Wars under the command of the Kings Forces, and ſo continued for many years; By which means the generality of the ſaid counties, accord<g ref="char:EOLhyphen"/>ing to ſeveral Ordinances made this preſent <hi>Parliament,</hi> are liable to Sequeſtration for ayding and aſſiſting the Forces raiſed againſt the Parliament: And whereas there be in the ſaid counties, divers deſperate Malig<g ref="char:EOLhyphen"/>nants that have maliciouſly endeavored the ſubverſion of <hi>Parliaments,</hi> and the Freedom of the <hi>People;</hi> And there being alſo many perſons that have been forced in ſome things to comply with them, to preſerve themſelves and Families from ſpoil and ruine; Now to the end ſome di<g ref="char:EOLhyphen"/>ſtinction may be made, whereby exemplary Iuſtice may be done on the moſt capital offendors, and the more mo<g ref="char:EOLhyphen"/>derate puniſhment be inflicted on the leſſer, now involved in a general guilt: The Commons aſſembled in this pre<g ref="char:EOLhyphen"/>ſent Parliament, taking the ſame into their conſiderati<g ref="char:EOLhyphen"/>on, Do hereby Enact, and be it Enacted by this preſent Parliament, and by authority of the ſame, in relation to the ſaid leſſer offendors, That a Fine be impoſed on the ſaid ſeveral counties for their reſpective Delinquencies; <hi>viz.</hi> on the county of <hi>Pembrook, 3500 l.</hi> On the county of <hi>Cardigan, 3000 l.</hi> On the county of <hi>Carmarthen,</hi> the ſum of <hi>4000 l.</hi> On the county of <hi>Glamorgan,</hi> the ſum of <hi>3500 l.</hi> On the county of <hi>Brecon,</hi> the ſum of <hi>2000 l.</hi> On the coun<g ref="char:EOLhyphen"/>ty of <hi>Monmouth,</hi> the ſum of <hi>3000 l.</hi> On the county of <hi>Rad<g ref="char:EOLhyphen"/>nor,</hi> the ſum of <hi>1500 l.</hi> Which ſaid ſums are to be paid by the ſaid reſpective counties, in maner &amp; form following; <hi>viz.</hi> The firſt moyety amounting to the ſum of Ten thou<g ref="char:EOLhyphen"/>ſand two hundred and fifty pounds, within ten weeks af<g ref="char:EOLhyphen"/>ter the paſsing of this Act, and the moyety of the ſaid Fine being Ten thouſand two hundred and fifty pounds of the ſaid Fine, within ten weeks next following the payment of the ſaid firſt moyety, To be paid to the Trea<g ref="char:EOLhyphen"/>ſurers
+<pb n="66" facs="tcp:169026:2"/>at Wars for the Army, who are hereby authorized to receive the ſame, and any two of them to give Re<g ref="char:EOLhyphen"/>ceipts under their Hands and Seals; which Receipts ſhall be a ſufficient Diſcharge to the ſaid reſpective coun<g ref="char:EOLhyphen"/>ties, for payment of the ſaid ſums of money impoſed on them by vertue of this Act for their Delinquencies: And that the ſaid moneys may be the better leavied, raiſed and paid, and with moſt equality, according to the E<g ref="char:EOLhyphen"/>ſtates and Delinquencies of perſons, and that the inno<g ref="char:EOLhyphen"/>nocent and well-affected may not be moleſted, Be it En<g ref="char:EOLhyphen"/>acted by the authority aforeſaid, That Sir <hi>Eraſmus Phi<g ref="char:EOLhyphen"/>lips</hi> Baronet, <hi>Thomas Horton, Henry Herbert, Michael Owldeſ<g ref="char:EOLhyphen"/>worth, Thomas Wogan, William Herbert, Buſſy Mancell, Edward Prichard, William Jones, Thomas Morgan, Philip Jones, Edmond Morgan, Rowland Dawkins, John Price, John Herbert, Edward Stradling, Chriſtopher Catchmay, Walter Cuney, William Barber, Edward Herbert, Silvanus Taylor, Peter Price, Ralph Grundy, Henry Bowen, Roger Williams, Edward Games, Henry Williams, William Fleming, Roger Lort, James Philips, Sampſon Lort, James Lewis, John Williams, Lewis Jones, John Danzy, William Wat<g ref="char:EOLhyphen"/>kins</hi> of <hi>Sheaphouſe, John Elliot, Griffith Lloyd,</hi> 
+               <abbr>Eſqs</abbr> and <hi>Wil<g ref="char:EOLhyphen"/>liam Sudgon</hi> Gent. be appointed Commiſsioners for the ſeveral counties and places herein mentioned, who, or any three of them, have hereby full power and authority to remove all obſtructions that may hinder the carrying on of the ſaid work, and to ſuperviſe and regulate procee<g ref="char:EOLhyphen"/>dings to their beſt judgement, according to the true in<g ref="char:EOLhyphen"/>tent and meaning of this Act: Provided, That no per<g ref="char:EOLhyphen"/>ſon well-affected, be Rated, or Taxed or Compel<g ref="char:EOLhyphen"/>led to pay any Rate or Tax towards raiſing the ſaid Fines; But if any Delinquent or perſon lyable to Se<g ref="char:EOLhyphen"/>queſtration within the ſaid counties, ſhall refuſe to pay his or their proportion towards raiſing the ſaid Fines ſet on the ſeveral counties by vertue of this Act, and accord<g ref="char:EOLhyphen"/>ing to the time therein limited for payment of the ſame, he or they ſo refuſing, are not to have any benefit or im<g ref="char:EOLhyphen"/>munity by this Act, but are left to be proceeded with ac<g ref="char:EOLhyphen"/>cording to the Ordinance of Sequeſtrations. And it is further Enacted and provided, That this Act ſhall not extend to diſcharge or pardon any perſon excepted from pardon in the Propoſitions preſented to the King at
+<pb n="67" facs="tcp:169026:2"/>
+               <hi>Hampton Court:</hi> Provided alſo, This ſhall not extend to free or pardon for their ſeveral Delinquencies againſt the Parliament, <hi>Edward</hi> Earl of <hi>Worceſter,</hi> Lord of <hi>Berga<g ref="char:EOLhyphen"/>venny, Richard</hi> Lord of <hi>Cherbury,</hi> Sir <hi>Trevor Williams</hi> Ba<g ref="char:EOLhyphen"/>ronet, Sir <hi>Philip Jones</hi> Knight, Sir <hi>George Probert</hi> knight, Sir <hi>Hugh Owen</hi> knight, <hi>Edward Kemys</hi> of <hi>Kemis, William Morgan</hi> of <hi>Pencrigge, Henry Probert, Roger Williams</hi> of <hi>Keven<g ref="char:EOLhyphen"/>hiley,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Thomas Hughes</hi> of <hi>Lanvethrin,</hi> Major <hi>Lewis Thomas, James Jones</hi> of <hi>Llanvihangell Lanternam,</hi> Gent. Of the county of <hi>Monmouth,</hi> Sir <hi>Charls Kemeis</hi> Knight and Baronet, Sir <hi>John Awbrey</hi> knight, Sir <hi>Richard Baſſet</hi> knight, Sir <hi>Henry Stradling</hi> knight, Sir <hi>Edward Thomas</hi> baronet, <hi>Miles Button, Humphrey Matthews, Henry Mauncel, Thomas Stradling, Robert Thomas, John Thomas</hi> of <hi>Merthur</hi> of the county of <hi>Glamorgan,</hi> 
+               <abbr>Eſqs</abbr> Sir <hi>John Stepney</hi> Baronet, Sir <hi>Rice Rudd</hi> Baronet, Sir <hi>George Vaughan</hi> knight, <hi>Henry Floid, Walter Floid,</hi> and <hi>Thomas Philips,</hi> Eſquires: Of the county of <hi>Carmarthen,</hi> Sir <hi>Walter Floid,</hi> Sir <hi>Fran<g ref="char:EOLhyphen"/>cis Floid</hi> knights, and <hi>John Floid</hi> of <hi>Crunrin,</hi> Eſquires; Of the county of <hi>Cardigan, Herbert Price, Hoe Games, John Jeffryes, John Williams</hi> of the park, <hi>John Herbert, Lewis Mor<g ref="char:EOLhyphen"/>gan, Lewis Floid, Thomas Price, John Price,</hi> Sir <hi>Francis Fane</hi> Knight, <hi>Marmaduke Floid</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>William Floid, William San<g ref="char:EOLhyphen"/>ders,</hi> Gent. Of the county of Brecon, Maior General <hi>Laughorn,</hi> Col: <hi>Powel,</hi> Col: <hi>Poyer, John Barlow</hi> of <hi>Slebitch, Lewis Barlow</hi> and <hi>William Philips,</hi> 
+               <abbr>Eſqs</abbr> Of the county of <hi>Pembroke,</hi> Sir <hi>John Culpepper, Bryan Crowther, Hugh Floid, Banyham Vaughan, Howel Floid,</hi> 
+               <abbr>Eſqs</abbr> ſir <hi>Edmond Sawyer</hi> Kt. and <hi>Robert Martin,</hi> of the county of <hi>Radnor,</hi> Eſquires: Provided alſo, this ſhall not extend to free or pardon any Clergyman, that for ſcandal or delinquency is ſeque<g ref="char:EOLhyphen"/>ſtred, or lyable to Sequeſtration. Provided, This ſhall not extend to ſet at liberty any perſon that is a priſoner of War. Provided alſo, That this ſhall not extend to make any perſon capable to bear Office in the Common<g ref="char:EOLhyphen"/>wealth, contrary to any former Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, without the conſent of Parliament. Provided alſo, That ſuch perſons as are not worth Eight pounds <hi>per annum,</hi> or One hundred pounds in Perſonal Eſtate, be not lyable to pay towards the ſaid Fines impoſed on the ſaid ſeveral counties, but are hereby freely pardoned
+<pb n="68" facs="tcp:169026:3"/>and diſcharged for their ſaid Delinquencies. And it is further Enacted and Declared by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all perſons inhabiting in the ſaid counties of <hi>Glamorgan, Pembroke, Carmarthen, Cardigan, Brecon, Radnot,</hi> and <hi>Monmouth,</hi> are hereby pardoned for any Delinquen<g ref="char:EOLhyphen"/>cy or offence committed againſt the Parliament, to the time of the paſsing of this Act, and are hereby fully acquitted and diſcharged from all Sequeſtrations, or other moleſtations whatſoever by reaſon thereof, and are to be reſtored to their reſpective Eſtates; and are al<g ref="char:EOLhyphen"/>ſo to be diſcharged of all bonds and ſecurities, entred in<g ref="char:EOLhyphen"/>to to the Commiſsioners appointed by Ordinance of Parliament, bearing date the <hi>19</hi> of Iune, <hi>1648.</hi> or any acting by or under them, for payment of any moneys by reaſon of their ſaid Delinquency (except ſuch perſons as are by this Act excepted and provided againſt, and except ſuch counties as ſhall not pay in their ſaid Fines accord<g ref="char:EOLhyphen"/>ing to the appointment of this Act.) And it is further Enacted by the authority aforeſaid, That if any perſon or perſons within the ſaid counties, ſhall after the paſ<g ref="char:EOLhyphen"/>ſing of this Act, contrary to his and their duties, and to the diſturbance of the peace of the Kingdom, raiſe any Forces tending to the leavying of a new War, without authority of this preſent Parliament, or Commiſsion from the Lord General; or ſhall joyn with any ſuch per<g ref="char:EOLhyphen"/>ſons or Forces, or ſhall be ayding or aſsiſting to any Forces whatſoever, contrary to the aforeſaid authori<g ref="char:EOLhyphen"/>ties, he and they are hereby declared Traytors, and un<g ref="char:EOLhyphen"/>capable of any pardon, and their Eſtates confiſcated to the uſe of the Commonwealth: And be it Enacted by the authority aforeſaid, That the power given to the Commiſsioners named in the ſaid Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, bearing date the <hi>19</hi> of Iune laſt, ſhall from hence<g ref="char:EOLhyphen"/>forth extend no further, then to the Sequeſtrations of ſuch Delinquents Eſtates as are excepted in this Act.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> printed for <hi>Giles Calvert,</hi> at the Black Spread-Eagle at the Weſt-end of <hi>Pauls.</hi> 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
